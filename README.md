@@ -1,4 +1,4 @@
-# valorant
+# Valorant
 
 A new flutter application. The application gives the user information about the several maps of the game valorant and the all the Agents. 
 
