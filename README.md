@@ -1,6 +1,8 @@
 # valorant
 
-A new flutter application. The application gives the user information about the several maps of the game valorant. 
+A new flutter application. The application gives the user information about the several maps of the game valorant and the all the Agents. 
+
+It's not completed yet.
 
 
 
@@ -10,8 +12,7 @@ A new flutter application. The application gives the user information about the 
 
 
 ## To Do
-- [ ] Agent Screen
-- [ ] Retrieve from SD
+- [ ] Agent info Screen
 - [ ] improve map page ui
 - [ ] integrate api to get valorant news feed
 
